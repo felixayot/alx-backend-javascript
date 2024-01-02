@@ -1,3 +1,4 @@
+/* eslint-disable */
 import getSumOfHoods from './3-default-parameter.js';
 
 console.log(getSumOfHoods(34));
