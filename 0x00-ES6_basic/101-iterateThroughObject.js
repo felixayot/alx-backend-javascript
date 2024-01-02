@@ -6,7 +6,7 @@ export default function iterateThroughObject(reportWithIterator) {
     if (parseInt(key) !== reportWithIterator - 1) {
       employees += ' | ';
     }
-    var extract = employees.slice(0, -2);
+    var extract = employees.slice(0, -3);
   }
   return extract;
 }
