@@ -3,7 +3,7 @@
 // When the URL path is /students,
 // it should display This is the list of our students in the page body.
 
-const http = require('node:http');
+const http = require('http');
 const { readFile } = require('node:fs');
 
 const hostname = '127.0.0.1';
