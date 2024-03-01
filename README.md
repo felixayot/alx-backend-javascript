@@ -7,3 +7,4 @@ The concepts include:
 - ES6 Data Manipulation
 - TypeScript
 - NodeJs Basics
+- Unittests in JS
